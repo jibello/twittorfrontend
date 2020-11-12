@@ -86,7 +86,6 @@ export function isUserLogedApi() {
         return null;
     };
 
-    //console.log(isExpired(token);
     if(isExpired(token)) {
         logOutApi();
     }

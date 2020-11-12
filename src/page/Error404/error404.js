@@ -1,11 +1,16 @@
-import React from 'react';
-import BasicLayout from "../../layout/BasicLayout";
-import "./error404.scss";
+import React from "react";
+import { Link } from "react-router-dom";
+import Error404Image from "../../assets/png/error-404.png";
+import Logo from "../../assets/png/logo-blue.png";
 
-export default function error404() {
-    return (
-        <BasicLayout>
-            <h2>Error 404</h2>
-        </BasicLayout>
-    )
+import "./Error404.scss";
+
+export default function Error404() {
+  return (
+    <div className="error404">
+      <img src={Logo} alt="Twittor" />
+      <img src={Error404Image} alt="Error404" />
+      <Link to="/">Volver al Inicio</Link>
+    </div>
+  );
 }

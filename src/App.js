@@ -6,7 +6,7 @@ import { isUserLogedApi } from "./api/auth";
 import Routing from "./routes/Routing";
 
 export default function App() {
-  //useS
+  
   const [user, setUser] = useState(null);
   const[loadUser, setLoadUser] = useState(false);
   const[refreshCheckLogin, setRefreshCheckLogin] = useState(false);
@@ -15,7 +15,7 @@ export default function App() {
     setUser(isUserLogedApi());
     setRefreshCheckLogin(false);
     setLoadUser(true);
-  }, []);
+  }, [refreshCheckLogin]);
 
   if(!loadUser) return null;
   
