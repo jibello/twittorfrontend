@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/twittorfrontend/static/css/main.325ebe78.chunk.css",
+    "main.js": "/twittorfrontend/static/js/main.af303904.chunk.js",
+    "main.js.map": "/twittorfrontend/static/js/main.af303904.chunk.js.map",
+    "runtime-main.js": "/twittorfrontend/static/js/runtime-main.7a9c68df.js",
+    "runtime-main.js.map": "/twittorfrontend/static/js/runtime-main.7a9c68df.js.map",
+    "static/css/2.e514ba11.chunk.css": "/twittorfrontend/static/css/2.e514ba11.chunk.css",
+    "static/js/2.8ffbfcd9.chunk.js": "/twittorfrontend/static/js/2.8ffbfcd9.chunk.js",
+    "static/js/2.8ffbfcd9.chunk.js.map": "/twittorfrontend/static/js/2.8ffbfcd9.chunk.js.map",
+    "index.html": "/twittorfrontend/index.html",
+    "precache-manifest.5ee57bece37e03727235007c304102a3.js": "/twittorfrontend/precache-manifest.5ee57bece37e03727235007c304102a3.js",
+    "service-worker.js": "/twittorfrontend/service-worker.js",
+    "static/css/2.e514ba11.chunk.css.map": "/twittorfrontend/static/css/2.e514ba11.chunk.css.map",
+    "static/css/main.325ebe78.chunk.css.map": "/twittorfrontend/static/css/main.325ebe78.chunk.css.map",
+    "static/js/2.8ffbfcd9.chunk.js.LICENSE.txt": "/twittorfrontend/static/js/2.8ffbfcd9.chunk.js.LICENSE.txt",
+    "static/media/avatar-no-found.png": "/twittorfrontend/static/media/avatar-no-found.29a28302.png",
+    "static/media/camera.e2eae07d.svg": "/twittorfrontend/static/media/camera.e2eae07d.svg",
+    "static/media/close.9ad3d379.svg": "/twittorfrontend/static/media/close.9ad3d379.svg",
+    "static/media/date-birth.d97ec002.svg": "/twittorfrontend/static/media/date-birth.d97ec002.svg",
+    "static/media/error-404.png": "/twittorfrontend/static/media/error-404.24d5c66e.png",
+    "static/media/link.e4159b77.svg": "/twittorfrontend/static/media/link.e4159b77.svg",
+    "static/media/location.d8450c0b.svg": "/twittorfrontend/static/media/location.d8450c0b.svg",
+    "static/media/logo-blue.png": "/twittorfrontend/static/media/logo-blue.073ae261.png",
+    "static/media/logo-white.png": "/twittorfrontend/static/media/logo-white.7fe61d83.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a9c68df.js",
+    "static/css/2.e514ba11.chunk.css",
+    "static/js/2.8ffbfcd9.chunk.js",
+    "static/css/main.325ebe78.chunk.css",
+    "static/js/main.af303904.chunk.js"
+  ]
+}
